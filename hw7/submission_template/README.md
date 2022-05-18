@@ -1,0 +1,1 @@
+For the data annotation task, I categorized the posts according the category I find fits the best, but in my opinion the 4 categories are still a bit broad, for instance, for posts that were asking about which professors to take, I coded it with 'c'.

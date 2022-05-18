@@ -1,0 +1,2 @@
+AHH i saw someone suggested that on mycourses that we need not use networkx in task1 so i just made dictionary of dictionaries and convert it to a graph in task2. quite sure i'm not doing it correctly since the interactions are two-way so their corresponding keys should be equal? at least for some of the ponies but here we are :/
+the logic should work fine for task2. i calculated the values that we wanted by neglecting the edges that have weight 0

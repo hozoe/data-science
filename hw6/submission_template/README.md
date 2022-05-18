@@ -1,0 +1,5 @@
+In collect_relationships under rdj's page, winona is under another div and not sure if I had to include that segment of the code so I didn't implement it (and frankly im not sure if i know how to do it correctly).
+Also for the formatting, I figured out a way to format the dictionary exactly how the instructions showed, one key per line, but that would require importing another module (jsbeautifier), there is another way I am sure but that was the easiest one I could find. But just to be safe i didnt want to import any "unnecessary" modules so I did indent=4 instead. 
+The paths to the output files for part1, sample1.json and sample2.json, the instructions told us to direct them to the parent directory (submission_template) instead of /data so that's what i did i hope that's correct
+
+thanks TA :)

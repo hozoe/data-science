@@ -1,0 +1,30 @@
+[I 05:19:40.937 NotebookApp] JupyterLab extension loaded from /home/ubuntu/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 05:19:40.937 NotebookApp] JupyterLab application directory is /home/ubuntu/anaconda3/share/jupyter/lab
+[I 05:19:40.939 NotebookApp] Serving notebooks from local directory: /home/ubuntu/comp598-2021/hw4/submission_template/src
+[I 05:19:40.939 NotebookApp] The Jupyter Notebook is running at:
+[I 05:19:40.939 NotebookApp] http://(ip-172-31-24-117 or 127.0.0.1):8888/
+[I 05:19:40.939 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 05:19:40.942 NotebookApp] No web browser found: could not locate runnable browser.
+[I 05:19:51.834 NotebookApp] 302 GET / (135.0.218.154) 0.66ms
+[I 05:20:08.255 NotebookApp] 302 POST /login?next=%2F (135.0.218.154) 1.39ms
+[I 05:20:08.313 NotebookApp] 302 GET / (135.0.218.154) 0.53ms
+[I 05:20:22.319 NotebookApp] Creating new notebook in 
+[I 05:20:24.918 NotebookApp] Kernel started: 2cfae400-795d-4fe2-bc63-5f8ad96b39fb
+[I 05:20:26.183 NotebookApp] Adapting to protocol v5.1 for kernel 2cfae400-795d-4fe2-bc63-5f8ad96b39fb
+[I 05:20:45.899 NotebookApp] 302 GET / (209.17.96.106) 0.51ms
+[I 05:20:45.947 NotebookApp] 302 GET /tree (209.17.96.106) 0.71ms
+[I 05:22:25.729 NotebookApp] Saving file at /Untitled.ipynb
+[I 05:24:25.694 NotebookApp] Saving file at /Untitled.ipynb
+[I 05:26:24.955 NotebookApp] Saving file at /Untitled.ipynb
+[I 05:28:24.960 NotebookApp] Saving file at /Untitled.ipynb
+[I 05:30:25.964 NotebookApp] Saving file at /Untitled.ipynb
+[I 05:32:24.991 NotebookApp] Saving file at /unique_zip.ipynb
+^C[I 05:32:33.838 NotebookApp] interrupted
+Serving notebooks from local directory: /home/ubuntu/comp598-2021/hw4/submission_template/src
+1 active kernel
+The Jupyter Notebook is running at:
+http://(ip-172-31-24-117 or 127.0.0.1):8888/
+Shutdown this notebook server (y/[n])? y
+[C 05:32:37.182 NotebookApp] Shutdown confirmed
+[I 05:32:37.183 NotebookApp] Shutting down 1 kernel
+[I 05:32:37.584 NotebookApp] Kernel shutdown: 2cfae400-795d-4fe2-bc63-5f8ad96b39fb
