@@ -1,0 +1,6 @@
+Useful documentations/links/code
+https://developer.twitter.com/en/docs/twitter-api/v1/tweets/search/api-reference/get-search-tweets#example-response
+https://towardsdatascience.com/how-to-build-a-dataset-from-twitter-using-python-tweepy-861bdbc16fa5
+https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/twitter-data-in-python/
+https://github.com/SierraK/movie-analysis-CaptainMarvel/blob/master/reviews.ipynb
+https://github.com/akcarol/dune_tweets
